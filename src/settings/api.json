@@ -1,0 +1,13 @@
+[
+  {
+    "name": "login",
+    "version": "v1",
+    "methods": [
+      {
+        "name": "POST",
+        "url": "/login",
+        "exampleRequestBody": "{\n  \"id\": \"user-id\",\n  \"password\": \"password\"\n}"
+      }
+    ]
+  }
+]
